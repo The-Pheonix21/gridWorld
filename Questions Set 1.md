@@ -18,3 +18,19 @@ Set 1
 9.       Does a rock move or have any other behavior? The rock doesn’t move with the step or run command, but can be different colors.  If you click on the rock, you an move it to another location.
 
 10.   Can more than one actor (bug, flower, rock) be in the same location in the grid at the same time?  No.  Only one item can be in a grid space.
+Exercises
+1. 0 North
+   45 NE
+   90 East
+   135 SE
+   180 South
+   225 SW
+   270 West
+   315 NW
+   360 North
+2.Move a bug to a different location using the moveTo method. In which directions can you move it? How far can you move it? What happens if you try to move the bug out side the grid?
+
+3. Change the color of a bug, a flower, and a rock. Which method did you use? To change the color of a bug you change the method titled bug. For a flower change the method flower under the class flower. For rock change the method rock under the class rock.
+
+4. Move a rock on top of a bug and then move the rock again. What happened to the bug?
+The bug vanished(was squashed).
