@@ -1,5 +1,5 @@
 import info.gridworld.actor.ActorWorld;
-import info.gridworld.actor.BlusterCritter;
+import info.gridworld.actor.Critter;
 import info.gridworld.actor.Flower;
 import info.gridworld.actor.Rock;
 import info.gridworld.grid.Location;
@@ -7,10 +7,10 @@ import info.gridworld.grid.Location;
 import java.awt.Color;
 
 /**
- * This class runs a world that contains critters. <br />
+ * This class runs a world that contains critters. 
  * This class is not tested on the AP CS A and AB exams.
  */
-public class BlusterCritterRunner 
+public class BlusterCritterRunner
 {
     public static void main(String[] args)
     {
